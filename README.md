@@ -1,2 +1,0 @@
-# zayd-aviator-bot
-Aviator 
